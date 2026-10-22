@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://9ce2-119-73-111-92.ngrok-free.app"
 
 # Page configuration
 st.set_page_config(
